@@ -1,5 +1,4 @@
-# Simul8
-# Evaluación y Mejora de Desempeño Operativo en una Empresa de Servicio Técnico-Mecánico
+# Evaluación y Mejora de Desempeño Operativo en una Empresa de Servicio Técnico-Mecánico (Simul8)
 
 ## Enunciado del Problema
 Se tiene una empresa de servicio técnico-mecánico con el objetivo de evaluar y mejorar su desempeño operativo. La empresa se especializa en el mantenimiento, reparación y diagnóstico de vehículos automotores, y se utilizará el software Simul8 para modelar y analizar sus procesos internos. 
